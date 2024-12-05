@@ -1,4 +1,4 @@
-<img width="960" alt="Screenshot 2024-12-05 200359" src="https://github.com/user-attachments/assets/5037e185-a8a7-4e9f-ad83-05a3ad722867">**NAME: DASARI RENUKA
+**NAME: DASARI RENUKA
 **COMPANY: CODTECH IT SOLUTIONS
 **ID: CT08DS9854
 **DOMAIN: FULL STACK WEB DEVELOPMENT
